@@ -1,5 +1,6 @@
-# Harry’s
+<p align="center">
 
+# Harry’s
 ## (in)complete Guide
 
 ![an array of bottles](img/introduction/bottles.jpg)
@@ -13,3 +14,5 @@ A guide to the source of bottles
 
 by
 # Harald Kirsch
+
+</p>
