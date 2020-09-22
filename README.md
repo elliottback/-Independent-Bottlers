@@ -4,6 +4,10 @@ Harald Kirsch, the original author of this document, has kindly allowed me to po
 
 Please feel free to fork and submit merge requests to correct, enhance, or improve this text in any way! 
 
+# Table of Contents
+
+* [Introduction](Introduction.md)
+
 # Source
 
 This document is initially based on the [2008 v44e: Harry's Guide of Independent Bottlers](http://www.whiskyfun.com/Harrys-guide44e.pdf) distributed on [Serge Valentin's WhiskyFun](http://www.whiskyfun.com/) website.  The original source is no longer available, so I have reconstructed it in Markdown as best I can.
@@ -12,8 +16,8 @@ This document is initially based on the [2008 v44e: Harry's Guide of Independent
 
 There are two versions of the PDF guide which I've been able to find, and reproduce here for posterity:
 
-* [44e](pdf/guide44e.pdf)
-* [44g](pdf/guide44g.pdf)
+* [4.4 english](pdf/guide44e.pdf) 
+* [4.4 german](pdf/guide44g.pdf)
 
 # License and Copyright
 
