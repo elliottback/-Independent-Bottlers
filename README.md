@@ -6,7 +6,8 @@ Please feel free to fork and submit merge requests to correct, enhance, or impro
 
 # Table of Contents
 
-* [Introduction](Introduction.md)
+* [Introduction](doc/Introduction.md)
+* [Preface](doc/Preface.md)                         
 
 # Source
 
