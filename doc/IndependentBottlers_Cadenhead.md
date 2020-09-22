@@ -1,11 +1,8 @@
 # Wm Cadenhead
 
-    Address: 172, Canongate, Aberdeen or 9, Bolgam Street, Campbeltown, Argyll, PA28 6HZ
-    Web: [https://www.cadenhead.scot/](https://www.cadenhead.scot/)
-    Tel: 0131-556 58 64 Fax: 556-25 27
-    Proprietor: J.A. Mitchell 
-
-![logo 1](../img/ib/cadenhead/logo1.jpg) ![logo 2](../img/ib/cadenhead/logo2.jpg) ![logo 3](../img/ib/cadenhead/logo3.jpg)|
+|Brand Marks|Information|
+|:---------:|:----------|
+|![logo 1](../img/ib/cadenhead/logo1.jpg)  ![logo 2](../img/ib/cadenhead/logo2.jpg) ![logo 3](../img/ib/cadenhead/logo3.jpg)|Address: 172, Canongate, Aberdeen or 9, Bolgam Street, Campbeltown, Argyll, PA28 <br/><br/>Web: [https://www.cadenhead.scot/](https://www.cadenhead.scot/) <br/><br/> Tel: 0131-556 58 64 Fax: 556-25 27 <br/><br/> Proprietor: J.A. Mitchell 
 
 Cadenhead is Scotland's oldest independent bottler and was founded in Aberdeen in 1842 by Wm Cadenhead and G. Duncan. In 1972, the company was taken over by its present owner. The Head office of the company has moved to Campbeltown then because the warehouses are located there too. The Cadenhead bottlings are bottled by the bottling plant of Springbank.
 
