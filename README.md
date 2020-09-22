@@ -8,7 +8,7 @@ Please feel free to fork and submit merge requests to correct, enhance, or impro
 
 * [Introduction](doc/Introduction.md)
 * [Preface](doc/Preface.md)                         
-* [Independent Bottlers](doc/Independent\ Bottlers.md)
+* [Independent Bottlers](doc/IndependentBottlers.md)
 
 # Source
 
