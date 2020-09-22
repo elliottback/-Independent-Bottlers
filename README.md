@@ -8,7 +8,7 @@ Please feel free to fork and submit merge requests to correct, enhance, or impro
 
 * [Introduction](doc/Introduction.md)
 * [Preface](doc/Preface.md)                         
-* [Indepdendent Bottlers](doc/Independent Bottlers.md)
+* [Independent Bottlers](doc/Independent Bottlers.md)
 
 # Source
 
@@ -22,6 +22,10 @@ There are two versions of the PDF guide which I've been able to find, and reprod
 * [4.4 german](pdf/guide44g.pdf)
 
 These should be considered "historical" documents, as they will not be updated and will drift out of sync with the github version I am maintaining.
+
+## Github Versions
+
+This is a living document, and as such, it is not versioned.
 
 # License and Copyright
 
