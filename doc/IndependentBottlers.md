@@ -13,11 +13,12 @@ Another trend is, that there are more younger distillations bottled as single ca
 * [Wm Cadenhead](IndependentBottlers_Cadenhead.md)
 * [Gordon & MacPhail](IndependentBottlers_GM.md)
 * [Signatory](IndependentBottlers_Signatory.md)
+* [Douglas Laing](IndependentBottlers_DL.md)
 
-Pending writeups:
+Pending write-ups:
 
-* [Single Cask Nation](IndependentBottlers_SCN.md)
-* [Whisk-E](IndependentBottlers_WE.md)
+* Single Cask Nation
+* Whisk-E
 * The Archives
 * Three Rivers
 * HNWS Taiwan (鋐釀酒坊)
