@@ -12,6 +12,7 @@ Another trend is, that there are more younger distillations bottled as single ca
 
 * [Wm Cadenhead](IndependentBottlers_Cadenhead.md)
 * [Gordon & MacPhail](IndependentBottlers_GM.md)
+* [Signatory](IndependentBottlers_Signatory.md)
 
 Pending writeups:
 

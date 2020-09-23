@@ -166,9 +166,8 @@ G&M offers a multitude of second labels and ranges. They bottle several blends a
 
 ![G&M Others Example](../img/ib/gm/others-example.jpg)
 
-    Little comparison:
-    From left to right: standard (Glen Mhor 1965), standard (Mortlach 15yo.), and Connoisseurs Choice-bottling
-    from 1997 (Mosstowie 1979). 
+    From left to right: standard (Glen Mhor 1965), standard (Mortlach 15yo.),
+    and Connoisseurs Choice-bottling from 1997 (Mosstowie 1979). 
 
 [Back to Parent](IndependentBottlers.md)
 
