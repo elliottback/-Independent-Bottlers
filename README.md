@@ -10,6 +10,10 @@ Please feel free to fork and submit merge requests to correct, enhance, or impro
 * [Preface](doc/Preface.md)                         
 * [Independent Bottlers](doc/IndependentBottlers.md)
 
+# References
+
+* [See here for a list of references](doc/References.md)
+
 # Source
 
 This document is initially based on the [2008 v44e: Harry's Guide of Independent Bottlers](http://www.whiskyfun.com/Harrys-guide44e.pdf) distributed on [Serge Valentin's WhiskyFun](http://www.whiskyfun.com/) website.  The original source is no longer available, so I have reconstructed it in Markdown as best I can.
