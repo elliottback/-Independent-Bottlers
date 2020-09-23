@@ -11,5 +11,25 @@ In general, independent bottlers producing a very good quality with their bottli
 Another trend is, that there are more younger distillations bottled as single cask whisky on the market –- even from old independent bottlers. Of course, this does not have to be bad, but is not a trend and can have 2 reasons: a) the independent bottlers are running out of money, because longer matured whiskies becoming more expensive and more rare (and there are all the companies speculating with malt whisky, also) b) they want to offer high-quality bottlings in a lower price range.
 
 * [Wm Cadenhead](IndependentBottlers_Cadenhead.md)
-* Single Cask Nation
-* Whisk-E
+* [Gordon & MacPhail](IndependentBottlers_GM.md)
+
+Pending writeups:
+
+* [Single Cask Nation](IndependentBottlers_SCN.md)
+* [Whisk-E](IndependentBottlers_WE.md)
+* The Archives
+* Three Rivers
+* HNWS Taiwan (鋐釀酒坊)
+* Various Japan IBs/labels
+* Salty Breeze
+* Shinanoya / JIS
+* Asta Morris
+* Infrequnet Flyers
+* TWA
+* Nectar
+* Liquid Sun
+* Aqua Vitae
+* Avesta Whisky sällskap
+* E-Power
+* https://www.whiskybase.com/explore/bottler
+* Elixir / Marriage of Casks
