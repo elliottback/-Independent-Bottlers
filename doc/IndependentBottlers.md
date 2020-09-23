@@ -11,3 +11,5 @@ In general, independent bottlers producing a very good quality with their bottli
 Another trend is, that there are more younger distillations bottled as single cask whisky on the market –- even from old independent bottlers. Of course, this does not have to be bad, but is not a trend and can have 2 reasons: a) the independent bottlers are running out of money, because longer matured whiskies becoming more expensive and more rare (and there are all the companies speculating with malt whisky, also) b) they want to offer high-quality bottlings in a lower price range.
 
 * [Wm Cadenhead](IndependentBottlers_Cadenhead.md)
+* Single Cask Nation
+* Whisk-E
