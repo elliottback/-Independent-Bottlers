@@ -26,7 +26,7 @@ Pending write-ups:
 * Salty Breeze
 * Shinanoya / JIS
 * Asta Morris
-* Infrequnet Flyers
+* Infrequent Flyers
 * TWA
 * Nectar
 * Liquid Sun
@@ -35,3 +35,4 @@ Pending write-ups:
 * E-Power
 * https://www.whiskybase.com/explore/bottler
 * Elixir / Marriage of Casks
+* That Boutique-y Whiskey Company
