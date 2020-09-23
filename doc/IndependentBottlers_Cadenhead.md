@@ -1,9 +1,9 @@
 # Wm Cadenhead
 
-    Address: 172, Canongate, Aberdeen or 9, Bolgam Street, Campbeltown, Argyll, PA28 
-    Web: [https://www.cadenhead.scot/](https://www.cadenhead.scot/)
-    Tel: 0131-556 58 64 Fax: 556-25 27
-    Proprietor: J.A. Mitchell 
+* Address: 172, Canongate, Aberdeen or 9, Bolgam Street, Campbeltown, Argyll, PA28 
+* Web: [https://www.cadenhead.scot/](https://www.cadenhead.scot/)
+* Tel: 0131-556 58 64 Fax: 556-25 27
+* Proprietor: J.A. Mitchell 
 
 |Brand Marks|
 |:---------:|
@@ -102,7 +102,7 @@ This sub-label was used for Single Malt bottlings by Cadenhead's until 1994. The
 |Description|Bottle|
 |-----------|------|
 |These Bowmore were bottled by Cadenhead’s under the label DUTHIE'S|![duthie's bowmore](../img/ib/cadenhead/duthies-bowmore.jpg)|
-|Highland Park on the right, also! (photo: whiskyfair.de)|![duthie's highland park](../img/ib/cadenhead/duthies-highland-park.jpg)/
+|Highland Park on the right, also! (photo: whiskyfair.de)|![duthie's highland park](../img/ib/cadenhead/duthies-highland-park.jpg)|
 
 ##  Others
 
