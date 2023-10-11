@@ -14,6 +14,7 @@ Another trend is, that there are more younger distillations bottled as single ca
 * [Gordon & MacPhail](IndependentBottlers_GM.md)
 * [Signatory](IndependentBottlers_Signatory.md)
 * [Douglas Laing](IndependentBottlers_DL.md)
+* [James MacArthur](IndependentBottlers_JMA.md)
 
 Pending write-ups:
 
@@ -36,3 +37,5 @@ Pending write-ups:
 * https://www.whiskybase.com/explore/bottler
 * Elixir / Marriage of Casks
 * That Boutique-y Whiskey Company
+* Devilman
+* https://www.scotchmaltwhisky.co.uk/independentbottlers.htm
